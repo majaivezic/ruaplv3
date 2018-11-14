@@ -1,8 +1,8 @@
 <?php
- $host = "ncesic-dbserver.mysql.database.azure.com";
- $user = "ncesic@ncesic-dbserver";
- $pwd = "rhcp<3<3";
- $db = "ruap";
+ $host = "m1ivezic-mysqldbserver.mysql.database.azure.com";
+ $user = "ruapUser@m1ivezic-mysqldbserver";
+ $pwd = "Drama1802";
+ $db = "ruapdb";
  // $host = "127.0.0.1:52932";
  // $user = "azure";
  // $pwd = "6#vWHD_$";
